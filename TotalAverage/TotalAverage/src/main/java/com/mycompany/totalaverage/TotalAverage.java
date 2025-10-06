@@ -17,8 +17,8 @@ public class TotalAverage {
         int totalInt, FirstInt = 0, SecondInt = 0, ThirdInt = 0;
         double averageDouble;
         
-        System.out.println("Give me three integers, and I'll give you");
-        System.out.println("the average and the total.");
+        System.out.print("Give me three integers, and I'll give you");
+        System.out.println(" the average and the total.");
         System.out.print("First int: ");
         FirstInt = sc.nextInt();
         System.out.print("Second int: ");

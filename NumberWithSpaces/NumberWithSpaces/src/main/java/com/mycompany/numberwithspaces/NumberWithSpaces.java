@@ -17,7 +17,7 @@ public class NumberWithSpaces {
         String unseparated, separated;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a string of 5 digits, and this program will");
-        System.out.println(" them separated by a space.");
+        System.out.println(" output them separated by a space.");
         
         System.out.print("Input here: ");
         inputNum = sc.nextInt();
